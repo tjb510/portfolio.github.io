@@ -1,7 +1,7 @@
 # This is a catalog of all my work.
 
 ##  Replication of Emissions, Transmission, and the Environmental Value of Renewable Energy
-[Click here to view my Energy Replication Project ](https://portfolio.github.io/replication-proj-break.html)
+[Click here to view my Energy Replication Project ](https://github.com/tjb510/portfolio.github.io/blob/main/replication-proj-break.html)
 
 ## Resume
 [Click here to view my Resume](https://tjb510.github.io/Tyler_Brown_Resume10.8.24.html)
