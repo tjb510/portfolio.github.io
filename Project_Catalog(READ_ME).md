@@ -4,7 +4,7 @@
 [Click here to view my Energy Replication Project ](https://tjb510.github.io/portfolio.github.io/replication-proj-break.html)
 
 ## Resume
-[Click here to view my Resume](https://tjb510.github.io/portfolio.github.io/Tyler_Brown_Resume10.8.24.html)
+[Click here to view my Resume](https://tjb510.github.io/portfolio.github.io/TylerBrown_Energy_Resume.pdf)
 
 ## Empirical Analysis of Romer Model
 [Click here to view the report](https://tjb510.github.io/portfolio.github.io/Tyler_Brown_STAT331_Final_Project.html)
